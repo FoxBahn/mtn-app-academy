@@ -6,21 +6,21 @@ Academy Page: https://www.appoftheyear.co.za/app-academy/
 
 ## List of teams ##
 
-#Davinci coders 
-#Let'sAceit
-#TechSolution
-#TMK
-012 Tech Warfare
-234 Technologies
-4 ul boys
-4Loop
-Academites
-Achievers
-Africa School Of Technology
-Agri league
-Algo-solution
-Allgenos
-Alpha Geeks
+* #Davinci coders 
+* #Let'sAceit
+* #TechSolution
+* #TMK
+* 012 Tech Warfare
+* 234 Technologies
+* 4 ul boys
+* 4Loop
+* Academites
+* Achievers
+* Africa School Of Technology
+* Agri league
+* Algo-solution
+* Allgenos
+* Alpha Geeks
 Am an Innovationists
 AMABOVU
 Android Disciples
